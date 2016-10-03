@@ -1,0 +1,15 @@
+{
+    "name": "anonym3000/core-library",
+    "description": "Core library",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "core-library" 
+    ],
+    "homepage": "http://framework.zend.com/",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^5.6 || ^7.0"
+    }
+}
